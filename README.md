@@ -16,7 +16,7 @@ java -jar search.jar -v "path" "value"
 
 ##### 其他
 
-本想将这个jar打包成exe来执行
+本想将这个`jar`打包成`exe`来执行
 
 发现先用的工具都是收费的,
 
@@ -30,9 +30,9 @@ java -jar search.jar -v "path" "value"
 
 于是
 
-先暂时性添加了两个脚本, search.bat和search.sh
+先暂时性添加了两个脚本, `search.bat`和`search.sh`
 
-双击之后会进入到当前目录, 并执行java -jar search.jar命令
+双击之后会进入到当前目录, 并执行`java -jar search.jar`命令
 
 而后可以自己输入命令
 
@@ -42,6 +42,8 @@ java -jar search.jar -v "path" "value"
 > author: cg
 
 > create time: 2021.01.30 18:04
+
+> first commit time: 2021.01.31 10:3x
 
 ***
 
